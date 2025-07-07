@@ -429,7 +429,7 @@ def menu():
         print("14. Remover tupla em Autor")
         print("15. Remover tupla em Estante")
         print("16. Consulta com JOIN - VendaXPessoa")
-        print("17. Consulta com JOIN - LivroXAutoriaXVenda")
+        print("17. Consulta com JOIN - LivroXAutoriaXAutor")
         print("18. Subconsulta e Agregação - ANY e MAX")
         print("19. Subconsulta e Agregação - IN e GROUP BY-HAVING-COUNT")
         print("0. Sair")
